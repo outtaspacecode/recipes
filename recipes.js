@@ -25,6 +25,118 @@
 */
 export const recipes = [
     {
+        title: "Rich and Thick Ice Cream Shake",
+        ingredients: [
+            "2 large scoops ice cream",
+            "2 t. chocolate syrup",
+            "½ t. pure vanilla extract",
+            "¾ c. whole milk, cold",
+            "Whipped cream"
+        ],
+        directions: [
+            "Place ice cream, chocolate syrup, vanilla, and milk in a blender. Blend until creamy, about 30 seconds.",
+            "Pour into a tall, chilled glass. Add whipped cream and toppings, if desired."
+        ]
+    },
+    {
+        title: "1890s Lemonade",
+        ingredients: [
+            "2 c. superfine sugar",
+            "1 c. warm water",
+            "4 c. cold water",
+            "2 c. fresh lemon juice",
+            "Ice cubes",
+            "2 medium lemons, cut into thin slices"
+        ],
+        directions: [
+            "In a small saucepan over medium heat, bring sugar and warm water to a low boil. Set aside and let cool.",
+            "Pour sugar syrup into a large pitcher. Add cold water and lemon juice and mix.",
+            "Place ice into a tall glass and pour lemonade over. Garnish with lemon slices."
+        ]
+    },
+    {
+        title: "Aztec Hot Chocolate",
+        ingredients: [
+            "12 oz. semisweet or bittersweet chocolate, chopped",
+            "½ c. water at room temperature",
+            "6 T. hot water",
+            "6 c. hot whole milk",
+            "1 t. ground cinnamon",
+            "Sugar to taste",
+            "Whipped cream (optional)"
+        ],
+        directions: [
+            "Fill the bottom half of a double boiler with warm water. Bring to a low boil. In the top part of the double boiler, combine chocolate and ½ c. water, stirring occasionally, until melted and smooth.",
+            "Remove the top double boiler pan and whisk in 6 tablespoons hot water. Pour the liquid into a pitcher or divide among 8 mugs. Stir ¾ c. hot milk into each mug. Add cinnamon, sugar, and whipped cream to taste."
+        ]
+    },
+    {
+        title: "Witches' Brew",
+        ingredients: [
+            "24 oz. apple cider",
+            "6 oz. fresh orange juice",
+            "2 large oranges, sliced thin",
+            "1 T. ground cinnamon",
+            "½ t. ground nutmeg",
+            "2 whole cinnamon sticks, broken into pieces"
+        ],
+        directions: [
+            "In a large saucepan or slow cooker, heat apple cider, orange juice, oranges, cinnamon, and nutmeg until very warm but not boiling.",
+            "Serve in mugs with cinnamon stick pieces."
+        ]
+    },
+    {
+        title: "Apple Slush Freeze",
+        ingredients: [
+            "1 medium tart apple, peeled, cored and quartered",
+            "½ c. unsweetened apple juice",
+            "Crushed ice"
+        ],
+        directions: [
+            "Blend apple pieces and juice in a blender until smooth. Add ice to fill the blender to the top. Blend well.",
+            "Serve in a tall glass."
+        ]
+    },
+    {
+        title: "Twisty Curly Fries",
+        ingredients: [
+            "5 lb. russet potatoes",
+            "Water",
+            "Peanut oil",
+            "Sea salt",
+            "Paprika",
+            "Garlic salt"
+        ],
+        directions: [
+            "A day prior, peel potatoes and then use a spiral cutter to create potato spirals. Place spirals into a large bowl of ice water. Cover and refrigerate for 8 hours.",
+            "Pour about 2\" of peanut oil into a large stockpot. Heat oil to 400°F.",
+            "Drain potato spirals and lay them out on baking sheets lined with paper towels to dry. Fry in batches, keeping the oil at 400°. Turn the potatoes in the oil until light brown, about 4 minutes total.",
+            "Drain on fresh paper towels. Sprinkle with sea salt, paprika, and garlic salt while still warm."
+        ]
+    },
+    {
+        title: "Old-Fashioned Salted Pretzels",
+        ingredients: [
+            "3 ¾ c. all-purpose flour",
+            "1 ½ t. sea salt",
+            "1 ½ t. granulated sugar",
+            "4 t. instant dry yeast",
+            "1 ½ c. warm water (110°F)",
+            "1 ½ c. water (for soaking liquid)",
+            "3 T. baking soda",
+            "Pretzel salt",
+            "¼ c. unsalted butter, melted"
+        ],
+        directions: [
+            "Preheat oven to 475°",
+            "Using a mixer fitted with a paddle attachment, blend flour, salt, sugar, and dry yeast. Mixing on low, add the warm water in a steady stream. Continue to mix and increase the speed as needed to mix and knead the dough. Knead for 5 minutes, until the sides of the bowl are clean.",
+            "Place dough in an oiled bowl and cover the top of the bowl with plastic wrap. Let sit in a warm draft-free place for 30 min. The dough should double in bulk.",
+            "Meanwhile, make the soaking liquid: Bring water to a boil, then mix in the baking soda. Pour into a shallow pie plate and let cool.",
+            "Cut the dough into 12 equal pieces and let rest for 10 min. Roll each piece into a long rope about 18\" long. Twist to make a pretzel shape, and place ropes on a baking sheet. Taking 3 at a time, dip the pretzels into the water/soda mixture and then flip over, making sure both sides are covered. Place each dipped pretzel onto a baking sheet lined with parchment. Sprinkle pretzel salt on top of each. Let rest uncovered for 10 min.",
+            "Place pretzels in preheated oven for 8-10 min. or until lightly browned. Brush with melted butter while still hot."
+        ]
+    },
+    {
         title: "Bacon Grean Pea Pasta Salad",
         ingredients: [
             "8 slices thick-cut bacon, cut into 1/4\" pieces",
