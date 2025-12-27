@@ -121,6 +121,11 @@ main {
     gap: 20px;
 }
 
+main::selection {
+    background-color: var(--dark);
+    color: var(--light);
+}
+
 .recipe {
     width: 400px;
     background-color: white;

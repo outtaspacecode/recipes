@@ -30,13 +30,13 @@ export const recipes = [
             "8 slices thick-cut bacon, cut into 1/4\" pieces",
             "12 oz. dry small pasta shells",
             "12 oz. frozen petite green peas (thawed)",
-            "1/3 c. red onion, small diced",
+            "⅓ c. red onion, small diced",
             "1 c. mayonnaise",
-            "1/4 c. olive oil",
+            "¼ c. olive oil",
             "2 T. fresh-squeezed lemon juice",
             "1 T. Dijon mustard",
-            "3/4 t. salt",
-            "1/2 t. ground black pepper",
+            "¾ t. salt",
+            "½ t. ground black pepper",
             "2 T. fresh parsely, finely chopped",
             "3 T. fresh chives, finely chopped"
         ],
@@ -68,14 +68,14 @@ export const recipes = [
             "8-10 potatoes, boiled in jackets (or frozen hashbrowns)",
             "8 oz. container sour cream",
             "1 can cream of chicken soup",
-            "1/2 stick butter",
-            "4 green onions, chopped (1/4 c.)",
+            "½ stick butter",
+            "4 green onions, chopped (¼ c.)",
             "1-2 c. grated cheese",
             "Crumbled corn flakes"
         ],
         directions: [
             "Preheat oven to 350°. Slice cooked potatoes into 9x13 pan.", 
-            "Heat sour cream, soup, butter, and onions in a sauce pan; pour over potatoes.",
+            "Heat sour cream, soup, butter, and onions in a sauce pan; Pour over potatoes.",
             "Cover with grated cheese.",
             "Bake 30 min.",
             "(Optional) Add 1-2 c. leftover ham (or a can of spam) to potato layers."
@@ -104,11 +104,11 @@ export const recipes = [
     {
         title: "Steak on a Stick",
         ingredients: [
-            "3/4 c. soy sauce",
-            "1/2 T. vinegar",
-            "1/4 c. sugar",
+            "¾ c. soy sauce",
+            "½ T. vinegar",
+            "¼ c. sugar",
             "1 t. ginger",
-            "1/2 T. olive oil",
+            "½ T. olive oil",
             "Garlic salt",
             "2 lb. wafer-thin beef slices"
         ]
@@ -118,14 +118,14 @@ export const recipes = [
         ingredients: [
             "8 oz. cream cheese, softened",
             "2 T. butter, softened",
-            "2 1/2 c. cooked, cubed chicken",
-            "1/4 t. salt",
-            "1/8 t. pepper",
+            "2 ½ c. cooked, cubed chicken",
+            "¼ t. salt",
+            "⅛ t. pepper",
             "2 green onions, sliced",
             "4 oz. sliced pimientos, drained",
             "2 cans (8 oz. each) refrigerator crescent rolls",
             "2 T. melted butter",
-            "1 1/2 c. seasoned croutons, crushed"
+            "1 ½ c. seasoned croutons, crushed"
         ],
         directions: [
             "Preheat oven to 350°",
@@ -145,7 +145,7 @@ export const recipes = [
             "2 c. double strength chicken bouillon granules"
         ],
         directions: [
-            "Sauté mushrooms in butter; stir in flour",
+            "Sauté mushrooms in butter; Stir in flour",
             "Add liquid and stir until thickened"
         ]
     },
@@ -158,9 +158,9 @@ export const recipes = [
         ],
         directions: [
             "Preheat oven to 350°",
-            "Mix rice and soup and 1/2 onion soup in casserole dish.",
+            "Mix rice and soup and ½ onion soup in casserole dish.",
             "Put 2-4 chicken breasts on top. Sprinkle rest of onion soup on top.",
-            "Bake for 1 1/2-2 hours (depending on amount of chicken)."
+            "Bake for 1 ½-2 hours (depending on amount of chicken)."
         ]
     },
     {
@@ -168,11 +168,11 @@ export const recipes = [
         author: "Gayle Scott",
         ingredients: [
             "Flour tortillas",
-            "3/4 c. jack cheese, grated",
+            "¾ c. jack cheese, grated",
             "4 large chicken breasts, cooked and broken",
             "2 cans cream of chicken soup",
             "2 c. sour cream",
-            "1/4 c. green onions, chopped",
+            "¼ c. green onions, chopped",
             "1 can sliced or chopped black olives",
             "1 small can chopped green chilies",
             "1 c. grated cheese"
@@ -181,7 +181,7 @@ export const recipes = [
             "Preheat oven to 350°",
             "Mix soup, sour cream, cheeses, onions, olives, and chilies. Set aside 2 cups.",
             "Add chicken to remaining mixture.",
-            "Fill and roll tortillas; place in 9x13 pan.",
+            "Fill and roll tortillas; Place in 9x13 pan.",
             "Pour reserved sauce over tortillas. Cover with cheese.",
             "Cover with foil and bake for 40 minutes."
         ]
@@ -191,10 +191,10 @@ export const recipes = [
         author: "Tracy Meng",
         ingredients: [
             "8 uncooked manicotti",
-            "1/2 lb mozzarella cheese",
-            "1/2 c. cottage cheese",
-            "1/3 c. parmesan",
-            "1/2 t. salt",
+            "½ lb mozzarella cheese",
+            "½ c. cottage cheese",
+            "⅓ c. parmesan",
+            "½ t. salt",
             "Pepper (optional)",
             "1 (8 oz.) can tomato sauce",
             "1 package of spaghetti mix",
@@ -230,11 +230,11 @@ export const recipes = [
         ingredients: [
             "2 c. chicken broth or water with bouillon (3 cubes)",
             "5 c. water",
-            "2 1/2 c. potatoes diced and peeled",
-            "1/2 t. sugar",
-            "2 1/2 c. broccoli (fresh or frozen)",
-            "1/2 c. water",
-            "1/2 c. flour",
+            "2 ½ c. potatoes diced and peeled",
+            "½ t. sugar",
+            "2 ½ c. broccoli (fresh or frozen)",
+            "½ c. water",
+            "½ c. flour",
             "8 oz. velveeta, cut up"
         ],
         directions: [
@@ -269,7 +269,7 @@ export const recipes = [
         alt: "(Whole recipe)",
         ingredients: [
             "3 chicken breasts",
-            "1/2 t. salt",
+            "½ t. salt",
             "3 q. water",
             "8 chicken bouillon cubes",
             "Celery",
@@ -281,7 +281,7 @@ export const recipes = [
             "Frozen peas",
             "Garlic salt (to taste)",
             "1 cube butter",
-            "1/2 c. flour"
+            "½ c. flour"
         ],
         directions: [
             "Cook chicken breasts with salt and water.",
@@ -298,12 +298,12 @@ export const recipes = [
         ingredients: [
             "1 lb. ground beef",
             "Taco seasoning",
-            "1 can (10 3/4 oz.) tomato soup",
-            "1/2 c. salsa",
-            "1/2 c. water",
+            "1 can (10 ¾ oz.) tomato soup",
+            "½ c. salsa",
+            "½ c. water",
             "6 flour tortillas cut into 1\" pieces",
-            "1/2 c. shredded cheddar cheese",
-            "(Optional) 1/2 c. sour cream"
+            "½ c. shredded cheddar cheese",
+            "(Optional) ½ c. sour cream"
         ],
         directions: [
             "Cook and drain beef. Season as instructed with taco seasoning.",
@@ -318,13 +318,13 @@ export const recipes = [
         author: "food & family - Fall 2004, p.26",
         ingredients: [
             "1 lb. lean ground beef",
-            "1/2 c. barbecue sauce",
-            "1/4 c. ketchup",
+            "½ c. barbecue sauce",
+            "¼ c. ketchup",
             "Cheese",
             "Hamburger buns"
         ],
         directions: [
-            "Brown meat; drain.",
+            "Brown meat; Drain.",
             "Add barbecue sauce and ketchup. Cook until heated, stirring occasionally. Add more sauce if needed.",
             "Serve on hamburger bun topped with cheese."
         ]
@@ -336,17 +336,17 @@ export const recipes = [
             "1 lb. frozen pizza dough, thawed",
             "1 package (9 oz.) deli ham",
             "1 c. shredded cheese",
-            "1/4 c. Miracle Whip",
+            "¼ c. Miracle Whip",
             "1 egg, beaten",
             "1 T. parmesan cheese"
         ],
         directions: [
             "Preheat oven to 350°",
-            "Place dough on lightly floured surface; flatten slightly with hands.",
+            "Place dough on lightly floured surface; Flatten slightly with hands.",
             "roll into 12x8 rectangle with rolling pin.",
-            "Top dough evenly with ham, overlapping slices slightly an dleaving a 1/2\" border around all sides.",
-            "Mix cheese and Miracle Whip; spread over ham",
-            "Moisten edges of dough with water. Starting at one of the long sides of dough, fold 1/3 of the dough over the filling, then repeat with the other side of dough.",
+            "Top dough evenly with ham, overlapping slices slightly an dleaving a ½\" border around all sides.",
+            "Mix cheese and Miracle Whip; Spread over ham",
+            "Moisten edges of dough with water. Starting at one of the long sides of dough, fold ⅓ of the dough over the filling, then repeat with the other side of dough.",
             "Firmly pinch ends of dough together to seal. Place seam-side-down on lightly greased baking sheet.",
             "Cut 3 diagonal slits on top; Brush with egg; Sprinkle with parmesan cheese.",
             "Bake 35-40 min. Cool 10 min. before cutting."
@@ -358,16 +358,16 @@ export const recipes = [
         ingredients: [
             "1 lb. lean ground beef",
             "10 Saltine crackers, crushed",
-            "1/4 c. Kraft Zesty Italian dressing",
-            "1 beef bouillon cube, dessolved in 1/2 c. boiling water",
-            "1/2 c. sour cream",
+            "¼ c. Kraft Zesty Italian dressing",
+            "1 beef bouillon cube, dessolved in ½ c. boiling water",
+            "½ c. sour cream",
             "1 c. shredded cheese"
         ],
         directions: [
             "Mix meat, crackers, and half of the dressing until well blended. Shape into thirty-two 1\" balls.",
             "Cook meatballs in nonstick skillet on medium-high heat 8 min. or until browned, turning occasionally.",
-            "Add remaining dressing and bouillon; simmer 5 min. or until meatballs are cooked through.",
-            "Stir in sour cream; cook 30 sec. or until heated through, but not simmering, stirring frequently.",
+            "Add remaining dressing and bouillon; Simmer 5 min. or until meatballs are cooked through.",
+            "Stir in sour cream; Cook 30 sec. or until heated through, but not simmering, stirring frequently.",
             "Remove from heat. Sprinkle with cheese. Serve over curly noodles."
         ]
     },
@@ -378,7 +378,7 @@ export const recipes = [
             "1 can refried beans",
             "1 can tomato sauce",
             "1 can green chilies",
-            "1/4 c. taco seasoning",
+            "¼ c. taco seasoning",
             "Tortillas",
             "1 can green enchilada sauce"
         ],
@@ -394,16 +394,140 @@ export const recipes = [
         title: "Ham Fried Rice",
         ingredients: [
             "2 eggs, lightly beaten",
-            "1 1/2 t. vegetable oil",
-            "3/4 c. cold cooked rice",
-            "2/3 c. diced fully cooked ham",
-            "3/4 t. garlic powder",
-            "1/4 t. ground ginger",
+            "1 ½ t. vegetable oil",
+            "¾ c. cold cooked rice",
+            "⅔ c. diced fully cooked ham",
+            "¾ t. garlic powder",
+            "¼ t. ground ginger",
             "Dash pepper",
-            "1 1/2 t. soy sauce"
+            "1 ½ t. soy sauce"
         ],
         directions: [
-
+            "In small skillet, cook and stir eggs in oil until eggs are completely set. Remove and set aside.",
+            "In same skillet, cook rice, ham, garlic powder, ginger, and pepper until heated through.",
+            "Stir in soy sauce and reserved eggs. Serve immediately."
+        ]
+    },
+    {
+        title: "Catalina Chicken Breasts",
+        author: "food & family - Holiday 2005, p.64",
+        ingredients: [
+            "3 chicken breasts",
+            "½ c. catalina dressing",
+            "½ c. apricot jam",
+            "½ package dry onion soup mix (about 3 T.)"
+        ],
+        directions: [
+            "Preheat oven to 350°",
+            "Cook chicken in hot non-stick skillet 3-4 min. on each side or until browned. Place chicken in baking dish.",
+            "Mix dressing, jam, and soup mix in small bowl. Pour over chicken.",
+            "Bake 40 min. or until chicken is cooked. Serve with rice."
+        ]
+    },
+    {
+        title: "Sweet Citrus Chicken",
+        author: "food & family - Spring 2007, p.43",
+        ingredients: [
+            "1 ⅔ c. hot water",
+            "1 package Stove Top stuffing for chicken",
+            "6 chicken breasts (3 cut in half)",
+            "⅔ c. orange juice",
+            "⅓ c. brown sugar",
+            "3 T. butter, melted"
+        ],
+        directions: [
+            "Preheat oven to 400°",
+            "Add hot water to stuffing mix; Stir until moistened. Set aside.",
+            "Place chicken in baking dish (middle size).",
+            "Mix juice, sugar, and butter until well blended; Pour over chicken.",
+            "Top with prepared stuffing. Bake 40 min. to 1 hour or until chicken is cooked through."
+        ]
+    },
+    {
+        title: "Easy Chicken Cordon Bleu",
+        author: "food & family - Winter 2006, p.39",
+        ingredients: [
+            "1 package Stove Top stuffing for chicken",
+            "4 small chicken breast halves",
+            "4 slices thin sliced ham",
+            "1 can cream of chicken",
+            "1 T. Grey Poupon dijon mustard",
+            "1 c. shredded swiss cheese"
+        ],
+        directions: [
+            "Preheat oven to 400°",
+            "Prepare stuffing as directed on packeage; Set aside.",
+            "Place chicken in 13x9 baking dish; Cover with ham.",
+            "Mix soup and mustard; Spoon over chicken. Top with stuffing.",
+            "Bake 25-40 min. or until chicken is cooked through.",
+            "Sprinkle with cheese. Bake 5 more min. or until cheese is melted."
+        ]
+    },
+    {
+        title: "Pizza Sauce",
+        ingredients: [
+            "1 can tomato sauce",
+            "1 clove garlic",
+            "1 ½ t. oregano",
+            "1 t. basil",
+            "¼ t. onion powder",
+            "¼ t. sugar"
+        ],
+        directions: [
+            "Mix in bowl."
+        ]
+    },
+    {
+        title: "Turkey Casserole",
+        author: "Cloe Ann",
+        ingredients: [
+            "½ cube butter",
+            "1 small can (3 oz.) mushrooms, drained",
+            "1 small onion, chopped",
+            "Twin pack stove top dressing",
+            "2 cans cream of mushroom soup",
+            "3-4 cups diced turkey (or chicken, if desired)"
+        ],
+        directions: [
+            "Preheat oven to 350°",
+            "Sauté butter, mushrooms, and onions.",
+            "Prepare dressing in microwave according to package.",
+            "Layer mushroom soup, turkey, dressing, and sauté mixture.",
+            "Bake for 25 min. covered."
+        ]
+    },
+    {
+        title: "Stephanie's Favorite Chicken in the Whole Wide World",
+        author: "Peggy Clark",
+        ingredients: [
+            "2 ½ lbs. cut up chicken breasts",
+            "½ c. butter or margarine",
+            "½ t. salt",
+            "¼ t. pepper",
+            "½ t. paprika",
+            "½ c. flour",
+            "2 cans cream of chicken soup",
+            "1 can mushrooms (stems, pieces and juice) or ⅓ to ½ lb. fresh mushrooms, sautéed",
+            "1 lb. can cooked onions, with juice (Diamond A brand)",
+            "1 can potatoes or 3-4 potatoes, cut up and slightly cooked",
+            "2 T. pimiento, chopped (1 small jar okay)",
+            "1 T. parsley, chopped"
+        ],
+        directions: [
+            "Preheat oven to 400°",
+            "Thaw chicken, wipe dry. Dredge in mixture of flour, salt, pepper, and paprika (easy in plastic or paper bag).",
+            "Melt butter in 9x13 baking dish. Place chicken in. Do not turn at this point.",
+            "Bake for 10-30 min.",
+            "Mix remaining ingredients and heat to boiling point.",
+            "Turn chicken pieces and pour sauce over them.",
+            "Bake 35 min. or until well browned."
+        ]
+    },
+    {
+        title: "Italian Chicken",
+        author: "Brenda Anderson",
+        ingredients: [
+            ""
         ]
     }
 ];
