@@ -641,5 +641,125 @@ export const recipes = [
         ingredients: [
             ""
         ]
+    },
+    {
+        title: "Stroganoff",
+        ingredients: [
+            "1 lb. hamburger",
+            "1 medium onion, chopped",
+            "2-3 cans cream of mushroom soup",
+            "1-1 ½ cans milk",
+            "½-1 c. sour cream"
+        ],
+        directions: [
+            "Salt and pepper meat. Brown meat and onions.",
+            "Add soup and milk.",
+            "Just before serving, fold in sour cream.",
+            "Serve over noodles"
+        ]
+    },
+    {
+        title: "Potato Salad",
+        ingredients: [
+            "10 potatoes, boiled and diced",
+            "1 dozen eggs, boiled and diced (or cut into coins)",
+            "¼ onion, finely chopped",
+            "1 qt. Miracle Whip",
+            "Pickels, diced",
+            "Paprika"
+        ],
+        directions: [
+            "Combine all ingredients, adding paprika to taste."
+        ]
+    },
+    {
+        title: "Blender Salsa",
+        ingredients: [
+            "4 oz. can green chilies",
+            "2 14 oz. cans Mexican stewed tomatoes",
+            "½ bunch cilantro",
+            "1 bunch green onions",
+            "1 t. cumin",
+            "1 t. garlic salt",
+            "1 T. worcestershire sauce",
+            "2 T. white vinegar"
+        ],
+        directions: [
+            "Blend and serve."
+        ]
+    },
+    {
+        title: "Noodle and Meat Sauce",
+        author: "Grandma Cordon",
+        ingredients: [
+            "12 oz. noodles",
+            "1 lb. ground beef",
+            "½ lb. ground pork",
+            "½ c. onion",
+            "1 can tomato soup",
+            "1 package cream cheese, diced",
+            "2 T. sugar",
+            "3 t. worcestershire sauce",
+            "1 ½ t. salt",
+            "½ c. corn flake crumbs",
+            "1 T. butter"
+        ],
+        directions: [
+            "Preheat oven to 350°",
+            "Cook meat. Drain fat off.",
+            "Add onion, soup, cheese, sugar, and seasoning. Simmer uncovered 15 min.",
+            "Cook noodles. Pour into baking dish and stir in sauce.",
+            "Mix corn flakes and butter. Sprinkle over top and bake for 25 min."
+        ]
+    },
+    {
+        title: "Shrimp and Crab Dip",
+        ingredients: [
+            "2 cans crab meat",
+            "3 cans shrimp (small)",
+            "3 sticks unsalted butter",
+            "1 lb. velveeta"
+        ],
+        directions: [
+            "Melt butter and velveeta in a double boiler. Add drained crab and shrimp. Mix and serve warm."
+        ]
+    },
+    {
+        title: "Black Beans and Rice",
+        ingredients: [
+            "16 oz. black beans",
+            "4-6 chicken boullion cubes",
+            "1 onion"
+        ],
+        directions: [
+            "Soak beans",
+            "Cook in crock pot. Salt and pepper to taste. Add 2 c. cooked rice."
+        ]
+    },
+    {
+        title: "Mushroom and Pork Chops",
+        ingredients: [
+            "5 pork chops",
+            "2 cans mushroom soup",
+            "4-5 carrots, peeled and cut",
+            "4-5 medium potatoes, cut"
+        ],
+        directions: [
+            "Preheat oven to 350°",
+            "Place all ingredients into roaster. Cover with water. Bake for 2 hours."
+        ]
+    },
+    {
+        title: "Suki-Yaki",
+        ingredients: [
+            "¼ c. sugar",
+            "¾ c. soy sauce",
+            "¼ c. water",
+            "Stir fry vegetables",
+            "Beef or chicken"
+        ],
+        directions: [
+            "Cook vegetables and meat separately. Mix and add other ingredients. Cook until warmed. Serve over rice."
+        ]
     }
 ];
