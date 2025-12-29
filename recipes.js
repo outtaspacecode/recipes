@@ -761,5 +761,19 @@ export const recipes = [
         directions: [
             "Cook vegetables and meat separately. Mix and add other ingredients. Cook until warmed. Serve over rice."
         ]
+    },
+    {
+        title: "Alfredo Sauce",
+        alt: "Mom's Secret Recipe",
+        ingredients: [
+            "¼ c. butter (⅛ c. is ok)",
+            "½ pint whipping cream",
+            "¼ c. parmesan",
+            "1 t. minced garlic",
+            "Salt and pepper to taste"
+        ],
+        directions: [
+            "Mix in small saucepan and bring to a light boil."
+        ]
     }
 ];
