@@ -10,6 +10,7 @@ recipes.forEach(recipe => {
         <div class="recipe" >
             <h2>${recipe.title}</h2>
             ${recipe.alt ? `<h3>${recipe.alt}</h3>` : ``}
+            ${recipe.subtitle ? `<h3>${recipe.subtitle}</h3>` : ``}
             ${recipe.author ? `<h3>${recipe.author}</h3>` : ``}
             <h3>Ingredients</h3>
             <ul>

@@ -195,7 +195,7 @@ export const recipes = [
     },
     {
         title: "Sweet-n-Sour Sauce",
-        alt: "Mom's Special Recipe",
+        subtitle: "Mom's Special Recipe",
         ingredients: [
             "2 t. soy sauce",
             "6 T. vinegar",
@@ -378,7 +378,7 @@ export const recipes = [
     },
     {
         title: "Chicken Noodle Soup",
-        alt: "(Whole recipe)",
+        subtitle: "(Whole recipe)",
         ingredients: [
             "3 chicken breasts",
             "½ t. salt",
@@ -764,7 +764,7 @@ export const recipes = [
     },
     {
         title: "Alfredo Sauce",
-        alt: "Mom's Secret Recipe",
+        subtitle: "Mom's Secret Recipe",
         ingredients: [
             "¼ c. butter (⅛ c. is ok)",
             "½ pint whipping cream",
