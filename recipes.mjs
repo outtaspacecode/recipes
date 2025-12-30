@@ -775,5 +775,123 @@ export const recipes = [
         directions: [
             "Mix in small saucepan and bring to a light boil."
         ]
+    },
+    {
+        title: "Maple Syrup",
+        ingredients: [
+            "2 c. sugar",
+            "1 c. water",
+            "½ t. mapleine",
+            "½ t. vanilla"
+        ],
+        directions: [
+            "Bring sugar and water to a boil.",
+            "Add mapeline and vanilla."
+        ]
+    },
+    {
+        title: "Pancakes",
+        author: "Youngs",
+        ingredients: [
+            "2 c. flour",
+            "½ c. sugar",
+            "4 ½ t. baking powder",
+            "1 t. salt",
+            "2 eggs",
+            "2 c. milk",
+            "¼ c. butter, melted"
+        ],
+        directions: [
+            "Mix together all ingredients except butter.",
+            "Add butter. Cook into pancakes."
+        ]
+    },
+    {
+        title: "Whole Wheat Bread",
+        subtitle: "(Bread Machine)",
+        ingredients: [
+            "1 ¼ c. hot tap water",
+            "2 T. + 2 t. applesauce (or oil)",
+            "2 T + 2 t. honey",
+            "1 ½ t. salt",
+            "1 T. flaxseed meal",
+            "3 c. whole wheat flour",
+            "1 ½ t. yeast"
+        ],
+        directions: [
+            "Add ingredients into bread machine in order.",
+            "Set bread machine for whole wheat, 2 lbs, light crust."
+        ]
+    },
+    {
+        title: "Pizza Crust",
+        author: "Jill Killpack",
+        ingredients: [
+            "1 T. yeast",
+            "1 c. water (110°)",
+            "½ c. milk, heated in microwave",
+            "¼ c. water, heated in microwave",
+            "½ t. pepper",
+            "2 T. sugar",
+            "½ T. salt",
+            "4-5 c. flour"
+        ],
+        directions: [
+            "Mix yeast and 110° water. Add microwaved milk and water.",
+            "Add pepper, sugar, and salt and mix until dissolved",
+            "Add 4-5 c. flour; enough to be a little sticky. Knead.",
+            "Roll out, add toppings, and cook at 450° 10-15 minutes."
+        ],
+        notes: "Freezes well."
+    },
+    {
+        title: "\"FOOLPROOF\" Whole Wheat Bread",
+        sortby: "Foolproof Whole Wheat Bread",
+        ingredients: [
+            "2 T. dry yeast (saf-instant)",
+            "12-15 c. whole wheat flour",
+            "2 T. salt",
+            "4 T. flaxseed meal",
+            "5 c. hot tap water",
+            "⅔ c. applesauce (or oil)",
+            "⅔ c. honey"
+        ],
+        directions: [
+            "Preheat oven to 175°. When heated, turn off.",
+            "Combine 7 c. whole wheat flour, yeast, salt, flaxseed meal, and water in mixer. (Stir with spatula before mixing to avoid mess).",
+            "When dry ingredients are moistened with water, turn on mixer. Mix until well blended.",
+            "Add applesauce and honey. Continue to mix.",
+            "Add 5 c. more flour to mixture and let mix about 10 min. (dough should be sticky but not stick to you - cleans sides of bowl).",
+            "Spray counter with Pam (use oil for hands). Remove dough from mixer and form 4 loaves.",
+            "Place in oiled pan, oil top of loaves. Let rise ⅓ in bulk for approximately 35 min.",
+            "Bake at 350° for 40-45 min. Remove from pans to cool. Butter tops."
+        ]
+    },
+    {
+        title: "Soft Pretzels",
+        ingredients: [
+            "1 T. yeast",
+            "1 ⅓ c. warm water (110°)",
+            "1 T. sugar",
+            "1 t. salt",
+            "3 c. flour",
+            "2 T. butter, melted"
+        ],
+        directions: [
+            "Preheat oven to 400°",
+            "Dissolve yeast in water in large bowl.",
+            "Stir in sugar, salt, and flour. Mix well.",
+            "Knead dough on floured surface for 7 min.",
+            "Divide the dough into 7 or 8 equal parts and roll each section into a snake and tie a loose knot to form pretzels.",
+            "Place pretzels on a greased cookie sheet and bake for 15-20 min. or until golden brown.",
+            "Brush melted butter on each baked pretzel and sprinkle with salt. YUM! YUM!"
+        ]
+    },
+    {
+        title: "Coffee Cake",
+        ingredients: [
+            "2 eggs",
+            ""
+        ]
     }
 ];
