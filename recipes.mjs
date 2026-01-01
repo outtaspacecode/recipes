@@ -1,7 +1,7 @@
 /*
     Equivalent Measurments
     
-    Measure                   | Equvalent
+    Measure             | Equvalent
     --------------------+----------------------------------
     Under 1/8 teaspoon  | Dash
     3 teaspoons         | 1 tablespoon
