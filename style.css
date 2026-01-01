@@ -4,8 +4,9 @@
     --light: #f2e8df;
     --light-pink: #f2c6c2;
     --pink: #f28585;
-    --dark: #3c3129;
+    --dark: #4c3b2e;
     --main-font: 'Merriweather', serif;
+    --fancy-font: 'Ballet', var(--main-font);
 }
 
 * {
@@ -24,7 +25,7 @@ body {
 }
 
 .logo > h1 {
-    font-family: 'Ballet';
+    font-family: var(--fancy-font);
     font-size: 3rem;
     margin: 20px auto;
 }
