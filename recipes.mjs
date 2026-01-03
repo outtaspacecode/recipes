@@ -741,13 +741,25 @@ export const recipes = [
         author: "Peggy Clark",
         subrecipes: [
             {
+                title: "Chicken",
                 ingredients: [
                     "2 ½ lbs. cut up chicken breasts",
                     "½ c. butter or margarine",
                     "½ t. salt",
                     "¼ t. pepper",
                     "½ t. paprika",
-                    "½ c. flour",
+                    "½ c. flour"
+                ],
+                directions: [
+                    "Preheat oven to 400°",
+                    "Thaw chicken, wipe dry. Mix all other ingredients and dredge chicken in mixture (easy in plastic or paper bag).",
+                    "Melt butter in 9x13 baking dish. Place chicken in. Do not turn at this point.",
+                    "Bake for 10-30 min."
+                ]
+            },
+            {
+                title: "Sauce",
+                ingredients: [
                     "2 cans cream of chicken soup",
                     "1 can mushrooms (stems, pieces and juice) or ⅓ to ½ lb. fresh mushrooms, sautéed",
                     "1 lb. can cooked onions, with juice (Diamond A brand)",
@@ -756,11 +768,7 @@ export const recipes = [
                     "1 T. parsley, chopped"
                 ],
                 directions: [
-                    "Preheat oven to 400°",
-                    "Thaw chicken, wipe dry. Dredge in mixture of flour, salt, pepper, and paprika (easy in plastic or paper bag).",
-                    "Melt butter in 9x13 baking dish. Place chicken in. Do not turn at this point.",
-                    "Bake for 10-30 min.",
-                    "Mix remaining ingredients and heat to boiling point.",
+                    "Mix and heat to boiling point.",
                     "Turn chicken pieces and pour sauce over them.",
                     "Bake 35 min. or until well browned."
                 ]
@@ -1097,13 +1105,20 @@ export const recipes = [
                     "1 t. salt",
                 ],
                 directions: [
+                    "Preheat oven to 375°",
                     "Combine ingredients and put in a greased 11x13 pan."
                 ]
             },
             {
                 title: "Topping",
                 ingredients: [
-                    ""
+                    "1 c. brown sugar",
+                    "2 T. flour",
+                    "2 t. cinnamon",
+                    "2 T. melted butter"
+                ],
+                directions: [
+                    "Combine and spread on mixture. Bake for 20-25 min."
                 ]
             }
         ],
