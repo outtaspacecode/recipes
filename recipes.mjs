@@ -23,7 +23,66 @@
     8 cups              | 64 ounces = 2 quarts = 1/2 gallon
     16 cups             | 128 ounces = 4 quarts = 1 gallon
 */
-export const recipes = [
+
+export function buildRecipes(data) {
+    const main = document.querySelector('main');
+    data.forEach(recipe => main.insertAdjacentHTML('beforeend', recipeTemplate(recipe)));
+}
+
+function recipeTemplate(recipe) {
+    return `
+        <div class="recipe">
+            <h2 class="recipe__name">${recipe.recipe_name}</h2>
+            ${checkForNull("h3", "recipe__alt", recipe.alt)}
+            ${checkForNull("h3", "recipe__subtitle", recipe.subtitle)}
+            ${checkForNull("h3", "recipe__author", recipe.author)}
+            ${recipe.subrecipes.map(subrecipe => subrecipeTemplate(subrecipe)).join('')}
+            ${recipe.notes ? `
+                <h4 class="recipe__notes">Notes</h4>
+                <p>${recipe.notes}</p>
+            ` : ``}
+        </div>
+    `;
+}
+
+function subrecipeTemplate(subrecipe) {
+    return `
+        ${checkForNull("h4", "subrecipe__name", subrecipe.name)}
+        <h4 class="subrecipe__ingredients">Ingredients</h4>
+        <ul>
+            ${subrecipe.ingredients.map(ingredient => 
+                ingredientTemplate(ingredient)).join('')}
+        </ul>
+        ${subrecipe.steps ? stepsTemplate(subrecipe.steps) : ``}
+    `;
+}
+
+function ingredientTemplate(ingredient) {
+    return `
+        <li>
+            ${ingredient.amount ? `${ingredient.amount}` : ``}
+            ${ingredient.unit ? `${ingredient.unit}` : ``}
+            ${ingredient.notes ? `${ingredient.name}, ${ingredient.notes}` : `${ingredient.name}`}
+        </li>
+    `;
+}
+
+function stepsTemplate(steps) {
+    return `
+        <h4 class="subrecipe__directions">Directions</h4>
+        <ol>
+            ${steps.map(step => `
+                <li>${step}</li>
+            `).join('')}
+        </ol>
+    `;
+}
+
+function checkForNull(tag, class_name, data) {
+    return `${data ? `<${tag} class="${class_name}">${data}</h3>` : ``}`;
+}
+
+const recipes = [
     {
         title: "Rich and Thick Ice Cream Shake",
         subrecipes: [
