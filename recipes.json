@@ -1,0 +1,510 @@
+[
+    {
+        "recipe_name": "Rich and Thick Ice Cream Shake",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "ice cream",
+                        "amount": "2",
+                        "unit": "large scoops"
+                    },
+                    {
+                        "name": "chocolate syrup",
+                        "amount": "2",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "pure vanilla extract",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "whole milk",
+                        "amount": "¾",
+                        "unit": "c.",
+                        "notes": "cold"
+                    },
+                    {
+                        "name": "Whipped cream"
+                    }
+                ],
+                "steps": [
+                    "Place ice cream, chocolate syrup, vanilla, and milk in a blender. Blend until creamy, about 30 seconds.",
+                    "Pour into a tall, chilled glass. Add whipped cream and toppings, if desired."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "1890s Lemonade",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "superfine sugar",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "warm water",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "cold water",
+                        "amount": "4",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "fresh lemon juice",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Ice cubes"
+                    },
+                    {
+                        "name": "medium lemons",
+                        "amount": "2",
+                        "notes": "cut into thin slices"
+                    }
+                ],
+                "steps": [
+                    "In a small saucepan over medium heat, bring sugar and warm water to a low boil. Set aside and let cool.",
+                    "Pour sugar syrup into a large pitcher. Add cold water and lemon juice and mix.",
+                    "Place ice into a tall glass and pour lemonade over. Garnish with lemon slices."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Aztec Hot Chocolate",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "semisweet or bittersweet chocolate",
+                        "amount": "12",
+                        "unit": "oz.",
+                        "notes": "chopped"
+                    },
+                    {
+                        "name": "water",
+                        "amount": "½",
+                        "unit": "c.",
+                        "notes": "room temperature"
+                    },
+                    {
+                        "name": "hot water",
+                        "amount": "6", 
+                        "unit": "T."
+                    },
+                    {
+                        "name": "whole milk",
+                        "amount": "6",
+                        "unit": "c.",
+                        "notes": "hot"
+                    },
+                    {
+                        "name": "ground cinnamon",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "Sugar",
+                        "notes": "to taste"
+                    },
+                    {
+                        "name": "Whipped cream (optional)"
+                    }
+                ],
+                "steps": [
+                    "Fill in bottom half of a double boiler with warm water. Bring to a low boil. In the top part of the double boiler, combine chocolate and ½ c. water, stirring occasionally, until melted and smooth.",
+                    "Remove the top boiler pan and whisk in 6 tablesppons hot water. Pour the liquid into a pitcher or divide among 8 mugs. Stir ¾ c. hot milk into each mug. Add cinnamon, sugar, and whipped cream to taste."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Witches' Brew",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "apple cider",
+                        "amount": "24",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "fresh orange juice",
+                        "amount": "6",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "large oranges",
+                        "amount": "2",
+                        "notes": "sliced thin"
+                    },
+                    {
+                        "name": "ground cinnamon",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "ground nutmeg",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "whole cinammon sticks",
+                        "amount": "2",
+                        "notes": "broken into pieces"
+                    }
+                ],
+                "steps": [
+                    "In a large saucepan or slow cooker, heat apple cider, orange juice, oranges, cinnamon, and nutmeg until very warm but not boiling.",
+                    "Serve in mugs with cinnamon stick pieces."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Apple Slush Freeze",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "medium tart apple",
+                        "amount": "1",
+                        "notes": "peeled, cored and quartered"
+                    },
+                    {
+                        "name": "unsweetened apple juice",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Crushed ice"
+                    }
+                ],
+                "steps": [
+                    "Blend apple pieces and juice in a blender until smooth. Add ice to fill the blender to the top. Blend well.",
+                    "Serve in a tall glass."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Twisty Curly Fries",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "russet potatoes",
+                        "amount": "5",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "Water"
+                    },
+                    {
+                        "name": "Peanut oil"
+                    },
+                    {
+                        "name": "Sea salt"
+                    },
+                    {
+                        "name": "Paprika"
+                    },
+                    {
+                        "name": "Garlic salt"
+                    }
+                ],
+                "steps": [
+                    "A day prior, peel potatoes and then use a spiral cutter to create potato spirals. Place spirals into a large bowl of ice water. Cover and refrigerate for 8 hours.",
+                    "Pour about 2\" of peanut oil into a large stockpot. Heat oil to 400°F.",
+                    "Drain potato spirals and lay them out on baking sheets lined with paper towels to dry. Fry in batches, keeping the oil at 400°. Turn the potatoes in the oil until light brown, about 4 minutes total.",
+                    "Drain on fresh paper towels. Sprinkle with sea salt, paprika, and garlic salt while still warm."
+                ]
+            }
+        ]
+    },
+    {
+        "recpie_name": "Old-Fashioned Salted Pretzels",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "all-purpose flour",
+                        "amount": "3 ¾",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "sea salt",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "granulated sugar",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "instant dry yeast",
+                        "amount": "4",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "warm water (110°F)",
+                        "amount": "1 ½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "water (for soaking liquid)",
+                        "amount": "1 ½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "baking soda",
+                        "amount": "3",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "Pretzel salt"
+                    },
+                    {
+                        "name": "unsalted butter",
+                        "amount": "¼",
+                        "unit": "c.",
+                        "notes": "melted"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 475°",
+                    "Using a mixer fitted with a paddle attachment, blend flour, salt, sugar, and dry yeast. Mixing on low, add the warm water in a steady stream. Continue to mix and increase the speed as needed to mix and knead the dough. Knead for 5 minutes, until the sides of the bowl are clean.",
+                    "Place dough in an oiled bowl and cover the top of the bowl with plastic wrap. Let sit in a warm draft-free place for 30 min. The dough should double in bulk.",
+                    "Meanwhile, make the soaking liquid: Bring water to a boil, then mix in the baking soda. Pour into a shallow pie plate and let cool.",
+                    "Cut the dough into 12 equal pieces and let rest for 10 min. Roll each piece into a long rope about 18\" long. Twist to make a pretzel shape, and place ropes on a baking sheet. Taking 3 at a time, dip the pretzels into the water/soda mixture and then flip over, making sure both sides are covered. Place each dipped pretzel onto a baking sheet lined with parchment. Sprinkle pretzel salt on top of each. Let rest uncovered for 10 min.",
+                    "Place pretzels in preheated oven for 8-10 min. or until lightly browned. Brush with melted butter while still hot."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Bacon Green Pea Pasta Salad",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "thick-cut bacon",
+                        "amount": "8",
+                        "unit": "slices",
+                        "notes": "cut into ¼\" pieces"
+                    },
+                    {
+                        "name": "dry small pasta shells",
+                        "amount": "12",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "frozen petite green peas (thawed)",
+                        "amount": "12",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "red onion",
+                        "amount": "⅓",
+                        "unit": "c.",
+                        "notes": "small diced"
+                    },
+                    {
+                        "name": "mayonnaise",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "fresh-squeezed lemon juice",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "Dijon mustard",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "¾",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "ground black pepper",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "fresh parsely",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "finely chopped"
+                    },
+                    {
+                        "name": "fresh chives",
+                        "amount": "3",
+                        "unit": "T.",
+                        "notes": "finely chopped"
+                    }
+                ],
+                "steps": [
+                    "Cook cut bacon in a large skillet over medium-high heat until crispy, and place on a paper towel-lined plate to drain. Set aside.",
+                    "Cook pasta shells in boiling, salted water as directed on the pasta packaging. Pour pasta into a large colander and rinse under cold water until chilled and set aside.",
+                    "Make the dressing by whisking together the mayonnaise, olive oil, lemon juice, mustard, salt and pepper until smooth and then stir in the parsley and chives.",
+                    "Prepare the salad by placing the pasta shells in a large mixing bowl and adding the bacon, peas and red onion. Pour the dressing into the bowl and toss to combine until all the ingredients are well distributed and coated in the dressing."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Cheesy Potatoes",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "frozen hash browns",
+                        "amount": "1",
+                        "unit": "bag"
+                    },
+                    {
+                        "name": "cream of chicken soup",
+                        "amount": "3",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "cheddar cheese",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "melted butter",
+                        "amount": "4",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "Pinch of salt and pepper"
+                    }
+                ],
+                "steps": [
+                    "Heat oven to 350°. Grease 9x13 pan.",
+                    "Mix hash browns, cream of chicken soup, cheddar cheese, butter and salt and pepper together.",
+                    "Add to 9x13 inch pan and bake for 45 minutes or until golden brown."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Potato Casserole",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "potatoes",
+                        "amount": "8-10",
+                        "notes": "boiled in jackets (or fozen hashbrowns)"
+                    },
+                    {
+                        "name": "sour cream",
+                        "amount": "8",
+                        "unit": "oz. container"
+                    },
+                    {
+                        "name": "cream of chicken soup",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "½",
+                        "unit": "stick"
+                    },
+                    {
+                        "name": "green onions",
+                        "amount": "4",
+                        "notes": "chopped (¼ c.)"
+                    },
+                    {
+                        "name": "grated cheese",
+                        "amount": "1-2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Crumbled corn flakes"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°. Slice cooked potatoes into 9x13 pan.", 
+                    "Heat sour cream, soup, butter, and onions in a sauce pan; Pour over potatoes.",
+                    "Cover with grated cheese.",
+                    "Bake 30 min.",
+                    "(Optional) Add 1-2 c. leftover ham (or a can of spam) to potato layers."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Sweet-n-Sour Sauce",
+        "subtitle": "Mom's Special Recipe",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "soy sauce",
+                        "amount": "2",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "vinegar",
+                        "amount": "6",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "cornstarch",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "ketchup",
+                        "amount": "4",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "8",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "pineapple juice",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "pineapple chunks",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "mandarin oranges",
+                        "amount": "11",
+                        "unit": "oz. can"
+                    }
+                ],
+                "steps": [
+                    "Before putting on heat, mix all ingredients except fruit (if there is not enough pinapple juice in the can, top off with juice from mandarin oranges).",
+                    "Stir well (until all cornstarch is fully mixed in).",
+                    "Put on heat. Stir until thick.",
+                    "Serve over rice"
+                ]
+            }
+        ]
+    }
+]
