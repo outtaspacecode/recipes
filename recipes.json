@@ -231,7 +231,7 @@
         ]
     },
     {
-        "recpie_name": "Old-Fashioned Salted Pretzels",
+        "recipe_name": "Old-Fashioned Salted Pretzels",
         "subrecipes": [
             {
                 "ingredients": [
@@ -745,6 +745,430 @@
                     "Fill and roll tortillas; Place in 9x13 pan.",
                     "Pour reserved sauce over tortillas. Cover with cheese.",
                     "Cover with foil and bake for 40 minutes."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Stuffed Manicotti",
+        "author": "Tracy Meng",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "manicotti",
+                        "amount": "8",
+                        "notes": "uncooked"
+                    },
+                    {
+                        "name": "mozzarella cheese",
+                        "amount": "½",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "cottage cheese",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "parmesan",
+                        "amount": "⅓",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "Pepper (optional)"
+                    },
+                    {
+                        "name": "tomato sauce",
+                        "amount": "1",
+                        "unit": "can (8 oz.)"
+                    },
+                    {
+                        "name": "spaghetti mix",
+                        "amount": "1",
+                        "unit": "package"
+                    },
+                    {
+                        "name": "eggs",
+                        "amount": "2",
+                        "notes": "beaten"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "T."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Combine tomato sauce and spaghetti mix and heat until boiling.",
+                    "Combine all but noodles and sauce. Stuff uncooked manicotti and put in pan.",
+                    "Pour sauce over noodles. Sprinkle with parmesan.",
+                    "Cover with foil and bake for 45-50 minutes."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Barbecue Roast Beef Sandwiches",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "Round or rump roast"
+                    },
+                    {
+                        "name": "Lawry's seasoning salt"
+                    },
+                    {
+                        "name": "K.C. Masterpiece barbecue sauce (or Bull's Eye barbecue sauce)"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 275°-300°",
+                    "Brown with no salt or pepper. Douse with Lawry's on top side. Put in baking pan.",
+                    "Bake for 6-10 hours. Do not add any water or liquid.",
+                    "When finished, shred and add barbecue sauce.",
+                    "Serve on hamburger buns."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Cheese and Broccoli Soup",
+        "author": "Robyn Meng",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "chicken broth or water with bouillon (3 cubes)",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "water",
+                        "amount": "5 ½",
+                        "unit": "c.",
+                        "notes": "separated"
+                    },
+                    {
+                        "name": "potatoes",
+                        "amount": "2 ½",
+                        "unit": "c.",
+                        "notes": "diced and peeled"
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "broccoli (fresh or frozen)",
+                        "amount": "2 ½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Velveeta",
+                        "amount": "8",
+                        "unit": "oz.",
+                        "notes": "cut up"
+                    }
+                ],
+                "steps": [
+                    "Combine and cook chicken broth, 5 c. water, potatoes, sugar, and broccoli.",
+                    "Mix flour and ½ c. water and add to soup slowly",
+                    "Add velveeta (more than 8 oz. can be used if desired) and allow cheese to melt."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Potato Soup",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "chicken bouillon cubes",
+                        "amount": "12"
+                    },
+                    {
+                        "name": "water",
+                        "amount": "3",
+                        "unit": "quarts"
+                    },
+                    {
+                        "name": "parsely flakes",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "minced onion",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "large carrot",
+                        "amount": "1",
+                        "notes": "grated"
+                    },
+                    {
+                        "name": "potatoes",
+                        "amount": "10-12",
+                        "notes": "peeled and cubed (dice size)"
+                    },
+                    {
+                        "name": "canned milk",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "Milk"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "cubes"
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "1",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Place all ingredients except milk, canned milk, butter, and flour in large 8 quart pot. Cook until potatoes are tender (about 20 min.).",
+                    "Add canned milk combined with enough milk to measure a quart.",
+                    "In a saucepan, melt butter. Add flour. Stir into soup until well blended.",
+                    "Top soup with grated cheese when serving."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chicken Noodle Soup",
+        "subtitle": "(Whole recipe)",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "chicken breasts",
+                        "amount": "3"
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "water",
+                        "amount": "3",
+                        "unit": "quarts"
+                    },
+                    {
+                        "name": "chicken bouillon cubes",
+                        "amount": "8"
+                    },
+                    {
+                        "name": "Celery"
+                    },
+                    {
+                        "name": "Carrots"
+                    },
+                    {
+                        "name": "Potatoes"
+                    },
+                    {
+                        "name": "parsely flakes",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "dried onion",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "country noodles",
+                        "amount": "4",
+                        "unit": "handfuls"
+                    },
+                    {
+                        "name": "Frozen peas"
+                    },
+                    {
+                        "name": "Garlic salt (to taste)"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "1",
+                        "unit": "cube"
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "½",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Cook chicken breasts with salt and water.",
+                    "Remove chicken from water and shred. Add chicken bouillon cubes to water.",
+                    "Add celery, carrots, potatoes, parsely flakes, and dried onion to broth. Cook until vegetables are tender.",
+                    "Cook noodles seperate according to directions.",
+                    "Add frozen peas, cooked noodles, and shredded chicken to broth.",
+                    "Add garlic salt to taste",
+                    "Combine butter and flour. Stir into soup until well blended."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beef Taco Skillet",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "ground beef",
+                        "amount": "1",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "Taco seasoning"
+                    },
+                    {
+                        "name": "tomato soup",
+                        "amount": "1",
+                        "unit": "can (10 ¾ oz.)"
+                    },
+                    {
+                        "name": "salsa",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "water",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "flour tortillas",
+                        "amount": "6",
+                        "notes": "cut into 1\" pieces"
+                    },
+                    {
+                        "name": "shredded cheddar cheese",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "sour cream (optional)",
+                        "amount": "½",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Cook and drain beef. Season as instructed with taco seasoning.",
+                    "Stir in soup, salsa, water, and tortillas. Heat to a boil.",
+                    "Reduce heat to low and cook for 5 min. Stir.",
+                    "Top with cheese.",
+                    "(Optional) Stir in sour cream."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Cheeseburger Joes",
+        "author": "food & family - Fall 2004, p.26",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "lean ground beef",
+                        "amount": "1",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "barbecue sauce",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "ketchup",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Cheese"
+                    },
+                    {
+                        "name": "Hamburger buns"
+                    }
+                ],
+                "steps": [
+                    "Brown meat; Drain.",
+                    "Add barbecue sauce and ketchup. Cook until heated, stirring occasionally. Add more sauce if needed.",
+                    "Serve on hamburger bun topped with cheese."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Ham and Cheddar in a Loaf",
+        "author": "food & family - Fall 2004, p.18",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "frozen pizza dough",
+                        "amount": "1",
+                        "unit": "lb.",
+                        "notes": "thawed"
+                    },
+                    {
+                        "name": "deli ham",
+                        "amount": "1",
+                        "unit": "package (9 oz.)"
+                    },
+                    {
+                        "name": "shredded cheese",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Miracle Whip",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "egg",
+                        "amount": "1",
+                        "notes": "beaten"
+                    },
+                    {
+                        "name": "parmesan cheese",
+                        "amount": "1",
+                        "unit": "T."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Place dough on lightly floured surface; Flatten slightly with hands.",
+                    "roll into 12x8 rectangle with rolling pin.",
+                    "Top dough evenly with ham, overlapping slices slightly an dleaving a ½\" border around all sides.",
+                    "Mix cheese and Miracle Whip; Spread over ham",
+                    "Moisten edges of dough with water. Starting at one of the long sides of dough, fold ⅓ of the dough over the filling, then repeat with the other side of dough.",
+                    "Firmly pinch ends of dough together to seal. Place seam-side-down on lightly greased baking sheet.",
+                    "Cut 3 diagonal slits on top; Brush with egg; Sprinkle with parmesan cheese.",
+                    "Bake 35-40 min. Cool 10 min. before cutting."
                 ]
             }
         ]
