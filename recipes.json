@@ -506,5 +506,247 @@
                 ]
             }
         ]
+    },
+    {
+        "recipe_name": "Steak on a Stick",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "soy sauce",
+                        "amount": "¾",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "vinegar",
+                        "amount": "½",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "ginger",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "olive oil",
+                        "amount": "½",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "Garlic salt"
+                    },
+                    {
+                        "name": "wafer-thin beef slices",
+                        "amount": "2",
+                        "unit": "lb."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chicken Crescents",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "cream cheese",
+                        "amount": "8",
+                        "unit": "oz.",
+                        "notes": "softened"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "softened"
+                    },
+                    {
+                        "name": "cubed chicken",
+                        "amount": "2 ½",
+                        "unit": "c.",
+                        "notes": "cooked"
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "¼",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "pepper",
+                        "amount": "⅛",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "green onions",
+                        "amount": "2",
+                        "notes": "sliced"
+                    },
+                    {
+                        "name": "sliced pimientos",
+                        "amount": "4",
+                        "unit": "oz.",
+                        "notes": "drained"
+                    },
+                    {
+                        "name": "refrigerator crescent rolls",
+                        "amount": "2",
+                        "unit": "cans (8 oz. each)"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "melted"
+                    },
+                    {
+                        "name": "seasoned croutons",
+                        "amount": "1 ½",
+                        "unit": "c.",
+                        "notes": "crushed"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Combine cream cheese, butter, chicken, salt, pepper, onions, and pimientos.",
+                    "Roll crescent rolls out. Put heaping tablespoon of mixture on each. Roll into crescent form and place on baking sheet.",
+                    "Top each crescent with butter and crumbs.",
+                    "Bake 20-25 min.",
+                    "(Optional) Top with <a href='#'>mushroom gravy</a>."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mushroom Gravy",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "butter",
+                        "amount": "8",
+                        "unit": "oz.",
+                        "notes": "melted"
+                    },
+                    {
+                        "name": "sliced mushrooms (8 oz. will work",
+                        "amount": "16",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "4",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "double strength chicken bouillon granules",
+                        "amount": "2",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Sauté mushrooms in butter; Stir in flour",
+                    "Add liquid and stir until thickened"
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chicken and Rice",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "Minute rice",
+                        "amount": "2-3",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "mushroom soup",
+                        "amount": "2-3",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "Lipton onion soup",
+                        "amount": "1",
+                        "unit": "packet"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Mix rice and soup and ½ onion soup in casserole dish.",
+                    "Put 2-4 chicken breasts on top. Sprinkle rest of onion soup on top.",
+                    "Bake for 1 ½-2 hours (depending on amount of chicken)."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chicken Chalupas",
+        "author": "Gayle Scott",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "Flour tortillas"
+                    },
+                    {
+                        "name": "jack cheese",
+                        "amount": "¾",
+                        "unit": "c.",
+                        "notes": "grated"
+                    },
+                    {
+                        "name": "large chicken breasts",
+                        "amount": "4",
+                        "notes": "cooked and broken"
+                    },
+                    {
+                        "name": "cream of chicken soup",
+                        "amount": "2",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "sour cream",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "green onions",
+                        "amount": "¼",
+                        "unit": "c.",
+                        "notes": "chopped"
+                    },
+                    {
+                        "name": "sliced or chopped black olives",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "chopped green chilies",
+                        "amount": "1",
+                        "unit": "small can"
+                    },
+                    {
+                        "name": "grated cheese",
+                        "amount": "1",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Mix soup, sour cream, cheeses, onions, olives, and chilies. Set aside 2 cups.",
+                    "Add chicken to remaining mixture.",
+                    "Fill and roll tortillas; Place in 9x13 pan.",
+                    "Pour reserved sauce over tortillas. Cover with cheese.",
+                    "Cover with foil and bake for 40 minutes."
+                ]
+            }
+        ]
     }
 ]
