@@ -30,17 +30,10 @@ export function buildRecipes(data) {
 }
 
 function recipeTemplate(recipe) {
+    const param = encodeURIComponent(recipe.recipe_name);
     return `
         <div class="recipe">
-            <h2 class="recipe__name">${recipe.recipe_name}</h2>
-            ${checkForNull("h3", "recipe__alt", recipe.alt)}
-            ${checkForNull("h3", "recipe__subtitle", recipe.subtitle)}
-            ${checkForNull("h3", "recipe__author", recipe.author)}
-            ${recipe.subrecipes.map(subrecipe => subrecipeTemplate(subrecipe)).join('')}
-            ${recipe.notes ? `
-                <h4 class="recipe__notes">Notes</h4>
-                <p>${recipe.notes}</p>
-            ` : ``}
+            <a href="./recipe.html?name=${param}"><h2 class="recipe__name">${recipe.recipe_name}</h2></a>
         </div>
     `;
 }
@@ -80,4 +73,31 @@ function stepsTemplate(steps) {
 
 function checkForNull(tag, class_name, data) {
     return `${data ? `<${tag} class="${class_name}">${data}</h3>` : ``}`;
+}
+
+export function populateRecipePage(recipe) {
+    const main = document.querySelector('main');
+    main.querySelector('.recipe__name').textContent = recipe.recipe_name;
+
+    recipe.subrecipes.forEach(subrecipe => {
+        let iContent = checkForNull("h4", "test", subrecipe.name);
+        let dContent = iContent;
+
+        iContent += `<ul>${subrecipe.ingredients.map(i => ingredientTemplate(i)).join('')}</ul>`;
+
+        const ingredients = main.querySelector(".ingredients");
+        ingredients.insertAdjacentHTML("beforeend", iContent);
+
+        dContent += `
+            <ol>
+                ${subrecipe.steps.map(step => `
+                    <li>${step}</li>
+                `).join('')}
+            </ol>
+        `;
+
+        const steps = main.querySelector(".steps");
+        steps.insertAdjacentHTML("beforeend", dContent);
+    });
+
 }

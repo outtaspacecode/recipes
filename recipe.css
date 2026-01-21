@@ -1,0 +1,44 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.recipe__name {
+    margin: 0 auto;
+}
+
+.content {
+    display: flex;
+    margin: 0 auto;
+    align-content: space-between;
+    width: 800px;
+    gap: 20px;
+}
+
+.content > div {
+    flex: 1;
+}
+
+.ingredients, .steps {
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.5s ease;
+}
+
+.ingredients:hover, .steps:hover {
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.steps input {
+    margin: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .content {
+        flex-direction: column;
+        width: 80%;
+    }
+}
