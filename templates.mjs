@@ -30,7 +30,7 @@ export function buildRecipes(data) {
 }
 
 function recipeTemplate(recipe) {
-    const param = encodeURIComponent(recipe.recipe_name);
+    const param = encodeURIComponent(recipe.recipe_name).toLowerCase();
     return `
         <div class="recipe">
             <a href="./recipe.html?name=${param}"><h2 class="recipe__name">${recipe.recipe_name}</h2></a>
