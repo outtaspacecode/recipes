@@ -1676,7 +1676,7 @@
                     "Salt and pepper meat. Brown meat and onions.",
                     "Add soup and milk.",
                     "Just before serving, fold in sour cream.",
-                    "Serve over noodles"
+                    "Serve over noodles."
                 ]
             }
         ]
@@ -1720,5 +1720,658 @@
                 ]
             }
         ]
+    },
+    {
+        "recipe_name": "Blender Salsa",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "green chilies",
+                        "amount": "4",
+                        "unit": "oz. (1 can)"
+                    },
+                    {
+                        "name": "Mexican stewed tomatoes",
+                        "amount": "2",
+                        "unit": "cans (14 oz. each)"
+                    },
+                    {
+                        "name": "cilantro",
+                        "amount": "½",
+                        "unit": "bunch"
+                    },
+                    {
+                        "name": "gren onions",
+                        "amount": "1",
+                        "unit": "bunch"
+                    },
+                    {
+                        "name": "cumin",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "garlic salt",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "worcestershire sauce",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "white vinegar",
+                        "amount": "2",
+                        "unit": "T."
+                    }
+                ],
+                "steps": [
+                    "Blend and serve."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Noodle and Meat Sauce",
+        "author": "Grandma Cordon",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "noodles",
+                        "amount": "12",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "ground beef",
+                        "amount": "1",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "ground pork",
+                        "amount": "½",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "onion",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "tomato soup",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "cream cheese",
+                        "amount": "1",
+                        "unit": "package",
+                        "notes": "diced"
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "worcestershire sauce",
+                        "amount": "3",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "corn flake crumbs",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "1",
+                        "unit": "T."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Cook meat. Drain fat off.",
+                    "Add onion, soup, cheese, sugar, and seasoning. Simmer uncovered 15 min.",
+                    "Cook noodles. Pour into baking dish and stir in sauce.",
+                    "Mix corn flakes and butter. Sprinkle over top and bake for 25 min."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Shrimp and Crab Dip",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "crab meat",
+                        "amount": "2",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "shrimp (small)",
+                        "amount": "3",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "unsalted butter",
+                        "amount": "3",
+                        "unit": "sticks"
+                    },
+                    {
+                        "name": "Velveeta",
+                        "amount": "1",
+                        "unit": "lb."
+                    }
+                ],
+                "steps": [
+                    "Melt butter and velveeta in a double boiler. Add drained crab and shrimp. Mix and serve warm."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Black Beans and Rice",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "black beans",
+                        "amount": "16",
+                        "unit": "oz."
+                    },
+                    {
+                        "name": "chicken bouillon cubes",
+                        "amount": "4-6"
+                    },
+                    {
+                        "name": "onion",
+                        "amount": "1"
+                    }
+                ],
+                "steps": [
+                    "Soak beans",
+                    "Cook in crock pot. Salt and pepper to taste. Add 2 c. cooked rice."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mushroom and Pork Chops",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "pork chops",
+                        "amount": "5"
+                    },
+                    {
+                        "name": "mushroom soup",
+                        "amount": "2",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "carrots",
+                        "amount": "4-5",
+                        "notes": "peeled and cut"
+                    },
+                    {
+                        "name": "medium potatoes",
+                        "amount": "4-5",
+                        "notes": "cut"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Place all ingredients into roaster. Cover with water. Bake for 2 hours."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Suki-Yaki",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "sugar",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "soy sauce",
+                        "amount": "¾",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "water",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Stir fry vegetables"
+                    },
+                    {
+                        "name": "Beef or chicken"
+                    }
+                ],
+                "steps": [
+                    "Cook vegetables and meat separately. Mix and add other ingredients. Cook until warmed. Serve over rice."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Alfredo Sauce",
+        "subtitle": "Mom's Secret Recipe",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "butter (⅛ c. is ok)",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "whipping cream",
+                        "amount": "½",
+                        "unit": "pint"
+                    },
+                    {
+                        "name": "parmesan",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "minced garlic",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "Salt and pepper to taste"
+                    }
+                ],
+                "steps": [
+                    "Mix in small saucepan and bring to a light boil."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Maple Syrup",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "sugar",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "water",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "mapleine",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "vanilla",
+                        "amount": "½",
+                        "unit": "t."
+                    }
+                ],
+                "steps": [
+                    "Bring sugar and water to a boil.",
+                    "Add mapeline and vanilla."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Pankcakes",
+        "author": "Youngs",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "flour",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "baking powder",
+                        "amount": "4 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "eggs",
+                        "amount": "2"
+                    },
+                    {
+                        "name": "milk",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "¼",
+                        "unit": "c.",
+                        "notes": "melted"
+                    }
+                ],
+                "steps": [
+                    "Mix together all ingredients except butter.",
+                    "Add butter. Cook into pancakes."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Whole Wheat Bread",
+        "subtitle": "(Bread Machine)",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "hot tap water",
+                        "amount": "1 ¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "applesauce (or oil)",
+                        "amount": "2 T. + 2 t."
+                    },
+                    {
+                        "name": "honey",
+                        "amount": "2 T. + 2 t."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "flaxseed meal",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "whole wheat flour",
+                        "amount": "3",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "yeast",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    }
+                ],
+                "steps": [
+                    "Add ingredients into bread machine in order.",
+                    "Set bread machine for whole wheat, 2 lbs, light crust."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Pizza Crust",
+        "author": "Jill Killpack",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "yeast",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "water (110°)",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "milk",
+                        "amount": "½",
+                        "unit": "c.",
+                        "notes": "heated in microwave"
+                    },
+                    {
+                        "name": "water",
+                        "amount": "¼",
+                        "unit": "c.",
+                        "notes": "heated in microwave"
+                    },
+                    {
+                        "name": "pepper",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "½",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "4-5",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Mix yeast and 110° water. Add microwaved milk and water.",
+                    "Add pepper, sugar, and salt and mix until dissolved",
+                    "Add 4-5 c. flour; enough to be a little sticky. Knead.",
+                    "Roll out, add toppings, and cook at 450° 10-15 minutes."
+                ]
+            }
+        ],
+        "notes": "Freezes well."
+    },
+    {
+        "recipe_name": "\"FOOLPROOF\" Whole Wheat Bread",
+        "sortby": "Foolproof Whole Weat Bread",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "dry yeast (saf-instant)",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "whole wheat flour",
+                        "amount": "12-15",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "flaxseed meal",
+                        "amount": "4",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "hot tap water",
+                        "amount": "5",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "applesauce (or oil)",
+                        "amount": "⅔",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "honey",
+                        "amount": "⅔",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 175°. When heated, turn off.",
+                    "Combine 7 c. whole wheat flour, yeast, salt, flaxseed meal, and water in mixer. (Stir with spatula before mixing to avoid mess).",
+                    "When dry ingredients are moistened with water, turn on mixer. Mix until well blended.",
+                    "Add applesauce and honey. Continue to mix.",
+                    "Add 5 c. more flour to mixture and let mix about 10 min. (dough should be sticky but not stick to you - cleans sides of bowl).",
+                    "Spray counter with Pam (use oil for hands). Remove dough from mixer and form 4 loaves.",
+                    "Place in oiled pan, oil top of loaves. Let rise ⅓ in bulk for approximately 35 min.",
+                    "Bake at 350° for 40-45 min. Remove from pans to cool. Butter tops."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Soft Pretzels",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "yeast",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "warm water (110°F)",
+                        "amount": "1 ⅓",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "3",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "melted"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 400°",
+                    "Dissolve yeast in water in large bowl.",
+                    "Stir in sugar, salt, and flour. Mix well.",
+                    "Knead dough on floured surface for 7 min.",
+                    "Divide the dough into 7 or 8 equal parts and roll each section into a snake and tie a loose knot to form pretzels.",
+                    "Place pretzels on a greased cookie sheet and bake for 15-20 min. or until golden brown.",
+                    "Brush melted butter on each baked pretzel and sprinkle with salt. YUM! YUM!"
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Coffee Cake",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "eggs",
+                        "amount": "2"
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "milk",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "amount": "4",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "2",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "baking powder",
+                        "amount": "4",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "salt", 
+                        "amount": "1",
+                        "unit": "t."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 375°",
+                    "Combine ingredients and put in a greased 11x13 pan."
+                ]
+            },
+            {
+                "name": "Topping",
+                "ingredients": [
+                    {
+                        "name": "brown sugar",
+                        "amount": "1",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "2",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "cinnamon",
+                        "amount": "2",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "melted"
+                    }
+                ],
+                "steps": [
+                    "Combine and spread on mixture. Bake for 20-25 min."
+                ]
+            }
+        ],
+        "notes": "For half recipe, use 9x9 pan."
     }
 ]
