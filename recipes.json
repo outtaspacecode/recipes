@@ -1172,5 +1172,553 @@
                 ]
             }
         ]
+    },
+    {
+        "recipe_name": "Cheesy Meatball Skillet",
+        "author": "food & family - Fall 2006, p.71",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "lean ground beef",
+                        "amount": "1",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "Saltine crackers",
+                        "amount": "10",
+                        "notes": "crushed"
+                    },
+                    {
+                        "name": "Kraft Zesty Italian dressing",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "beef bouillon cube",
+                        "amount": "1",
+                        "notes": "dissolved in ½ c. boiling water"
+                    },
+                    {
+                        "name": "sour cream",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "shredded cheese",
+                        "amount": "1",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Mix meat, crackers, and half of the dressing until well blended. Shape into thirty-two 1\" balls.",
+                    "Cook meatballs in nonstick skillet on medium-high heat 8 min. or until browned, turning occasionally.",
+                    "Add remaining dressing and bouillon; Simmer 5 min. or until meatballs are cooked through.",
+                    "Stir in sour cream; Cook 30 sec. or until heated through, but not simmering, stirring frequently.",
+                    "Remove from heat. Sprinkle with cheese. Serve over curly noodles."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Enchiladas",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "black beans",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "refried beans",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "tomato sauce",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "green chilies",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "taco seasoning",
+                        "amount": "¼",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Tortillas"
+                    },
+                    {
+                        "name": "green enchilada sauce",
+                        "amount": "1",
+                        "unit": "can"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Mix together all ingredients (except tortillas and enchilada sauce) and warm on stove.",
+                    "Fill tortillas. Cover bottom of a 9x13 pan well with some of the enchilada sauce.",
+                    "Add filled tortillas to pan; Cover with remaining enchilada sauce.",
+                    "Cover with foil and bake for 30 min."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Ham Fried Rice",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "eggs",
+                        "amount": "2",
+                        "notes": "lightly beaten"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "cooked rice",
+                        "amount": "¾",
+                        "unit": "c.",
+                        "notes": "cold"
+                    },
+                    {
+                        "name": "diced fully cooked ham",
+                        "amount": "⅔",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "garlic powder",
+                        "amount": "¾",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "ground ginger",
+                        "amount": "¼",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "Pepper"
+                    },
+                    {
+                        "name": "soy sauce",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    }
+                ],
+                "steps": [
+                    "In small skillet, cook and stir eggs in oil until eggs are completely set. Remove and set aside.",
+                    "In same skillet, cook rice, ham, garlic powder, ginger, and pepper until heated through.",
+                    "Stir in soy sauce and reserved eggs. Serve immediately."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Catalina Chicken Breasts",
+        "author": "food & family - Holiday 2005, p.64",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "chicken breasts",
+                        "amount": "3"
+                    },
+                    {
+                        "name": "catalina dressing",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "apricot jam",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "dry onion soup mix (about 3 T.)",
+                        "amount": "½",
+                        "unit": "package"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Cook chicken in hot non-stick skillet 3-4 min. on each side or until browned. Place chicken in baking dish.",
+                    "Mix dressing, jam, and soup mix in small bowl. Pour over chicken.",
+                    "Bake 40 min. or until chicken is cooked. Serve with rice."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Sweet Citrus Chicken",
+        "author": "food & family - Spring 2007, p.43",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "hot water",
+                        "amount": "1 ⅔",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "Stove Top stuffing for chicken",
+                        "amount": "1",
+                        "unit": "package"
+                    },
+                    {
+                        "name": "chicken breasts (3 cut in half)",
+                        "amount": "6"
+                    },
+                    {
+                        "name": "orange juice",
+                        "amount": "⅔",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "brown sugar",
+                        "amount": "⅓",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "3",
+                        "unit": "T.",
+                        "notes": "melted"
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 400°",
+                    "Add hot water to stuffing mix; Stir until moistened. Set aside.",
+                    "Place chicken in baking dish (middle size).",
+                    "Mix juice, sugar, and butter until well blended; Pour over chicken.",
+                    "Top with prepared stuffing. Bake 40 min. to 1 hour or until chicken is cooked through."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Easy Chicken Cordon Bleu",
+        "author": "food & family - Winter 2006, p.39",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "Stove Top stuffing for chicken",
+                        "amount": "1",
+                        "unit": "package"
+                    },
+                    {
+                        "name": "small chicken breast halves",
+                        "amount": "4"
+                    },
+                    {
+                        "name": "thin sliced ham",
+                        "amount": "4",
+                        "unit": "slices"
+                    },
+                    {
+                        "name": "cream of chicken",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "Grey Poupon dijon mustard",
+                        "amount": "1",
+                        "unit": "T."
+                    },
+                    {
+                        "name": "shredded swiss cheese",
+                        "amount": "1",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 400°",
+                    "Prepare stuffing as directed on packeage; Set aside.",
+                    "Place chicken in 13x9 baking dish; Cover with ham.",
+                    "Mix soup and mustard; Spoon over chicken. Top with stuffing.",
+                    "Bake 25-40 min. or until chicken is cooked through.",
+                    "Sprinkle with cheese. Bake 5 more min. or until cheese is melted."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Pizza Sauce",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "tomato sauce",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "garlic",
+                        "amount": "1",
+                        "unit": "clove"
+                    },
+                    {
+                        "name": "oregano",
+                        "amount": "1 ½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "basil",
+                        "amount": "1",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "onion powder",
+                        "amount": "¼",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "sugar",
+                        "amount": "¼",
+                        "unit": "t."
+                    }
+                ],
+                "steps": [
+                    "Mix in bowl."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Turkey Casserole",
+        "author": "Cloe Ann",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "butter",
+                        "amount": "½",
+                        "unit": "cube"
+                    },
+                    {
+                        "name": "mushrooms",
+                        "amount": "1",
+                        "unit": "small can (3 oz.)",
+                        "notes": "drained"
+                    },
+                    {
+                        "name": "small onion",
+                        "amount": "1",
+                        "notes": "drained"
+                    },
+                    {
+                        "name": "Twin pack stove top dressing"
+                    },
+                    {
+                        "name": "cream of mushroom soup",
+                        "amount": "2",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "diced turkey (or chicken, if desired)",
+                        "amount": "3-4",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 350°",
+                    "Sauté butter, mushrooms, and onions.",
+                    "Prepare dressing in microwave according to package.",
+                    "Layer mushroom soup, turkey, dressing, and sauté mixture.",
+                    "Bake for 25 min. covered."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Stephanie's Favorite Chicken in the Whole Wide World",
+        "author": "Peggy Clark",
+        "subrecipes": [
+            {
+                "name": "Chicken",
+                "ingredients": [
+                    {
+                        "name": "chicken breasts",
+                        "amount": "2 ½",
+                        "unit": "lbs.",
+                        "notes": "cut up"
+                    },
+                    {
+                        "name": "butter",
+                        "amount": "½",
+                        "unit": "c."
+                    },
+                    {
+                        "name": "salt",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "pepper",
+                        "amount": "¼",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "paprika",
+                        "amount": "½",
+                        "unit": "t."
+                    },
+                    {
+                        "name": "flour",
+                        "amount": "½",
+                        "unit": "c."
+                    }
+                ],
+                "steps": [
+                    "Preheat oven to 400°",
+                    "Thaw chicken, wipe dry. Mix all other ingredients and dredge chicken in mixture (easy in plastic or paper bag).",
+                    "Melt butter in 9x13 baking dish. Place chicken in. Do not turn at this point.",
+                    "Bake for 10-30 min."
+                ]
+            },
+            {
+                "name": "Sauce",
+                "ingredients": [
+                    {
+                        "name": "cream of chicken soup",
+                        "amount": "2",
+                        "unit": "cans"
+                    },
+                    {
+                        "name": "mushrooms (stems, pieces and juice)",
+                        "amount": "1",
+                        "unit": "can"
+                    },
+                    {
+                        "name": "cooked onions",
+                        "amount": "1",
+                        "unit": "lb. can",
+                        "notes": "with juice (Diamond A brand)"
+                    },
+                    {
+                        "name": "potatoes",
+                        "amount": "3-4",
+                        "notes": "cut up and slightly cooked"
+                    },
+                    {
+                        "name": "pimiento",
+                        "amount": "2",
+                        "unit": "T.",
+                        "notes": "chopped (1 small jar okay)"
+                    },
+                    {
+                        "name": "parsley",
+                        "amount": "1",
+                        "unit": "T.",
+                        "notes": "chopped"
+                    }
+                ],
+                "steps": [
+                    "Mix and heat to boiling point.",
+                    "Turn chicken pieces and pour sauce over them.",
+                    "Bake 35 min. or until well browned."
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Italian Chicken",
+        "author": "Brenda Anderson",
+        "subrecipes": [
+            {
+                "ingredients": [
+
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Stroganoff",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "hamburger",
+                        "amount": "1",
+                        "unit": "lb."
+                    },
+                    {
+                        "name": "medium onion",
+                        "amount": "1",
+                        "notes": "chopped"
+                    },
+                    {
+                        "name": "cream of mushroom soup",
+                        "amount": "2-3",
+                        "units": "cans"
+                    },
+                    {
+                        "name": "canned milk",
+                        "amount": "1 to 1 ½",
+                        "units": "cans"
+                    },
+                    {
+                        "name": "sour cream",
+                        "amount": "½ to 1",
+                        "units": "c."
+                    }
+                ],
+                "steps": [
+                    "Salt and pepper meat. Brown meat and onions.",
+                    "Add soup and milk.",
+                    "Just before serving, fold in sour cream.",
+                    "Serve over noodles"
+                ]
+            }
+        ]
+    },
+    {
+        "recipe_name": "Potato Salad",
+        "subrecipes": [
+            {
+                "ingredients": [
+                    {
+                        "name": "potatoes",
+                        "amount": "10",
+                        "notes": "boiled and diced"
+                    },
+                    {
+                        "name": "eggs",
+                        "amount": "1",
+                        "units": "dozen",
+                        "notes": "boiled and diced (or cut into coins)"
+                    },
+                    {
+                        "name": "onion",
+                        "amount": "¼",
+                        "notes": "finely chopped"
+                    },
+                    {
+                        "name": "Miracle Whipe",
+                        "amount": "1",
+                        "units": "quart"
+                    },
+                    {
+                        "name": "Pickels",
+                        "notes": "diced"
+                    },
+                    {
+                        "name": "Paprika"
+                    }
+                ],
+                "steps": [
+                    "Combine all ingredients, adding paprika to taste."
+                ]
+            }
+        ]
     }
 ]
