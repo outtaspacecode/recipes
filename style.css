@@ -117,7 +117,7 @@ form button > img {
     border-radius: 20px;
     border-top-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    /* display: none; */
+    display: none;
 }
 
 .palette > div {
