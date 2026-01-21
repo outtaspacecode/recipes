@@ -1,4 +1,4 @@
-import { buildRecipes } from './recipes.mjs';
+import { buildRecipes } from './templates.mjs';
 
 fetch('./recipes.json')
     .then(response => response.json())
