@@ -8,6 +8,7 @@ async function init() {
     const recipes = await getJson('../recipes.json');
 
     const recipe = recipes.find(r => r.recipe_name.toLowerCase() === recipeName.toLowerCase());
+    console.log(recipe);
     populateRecipePage(recipe);
 
     const title = document.querySelector('title');
