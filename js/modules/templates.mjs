@@ -25,8 +25,7 @@
 */
 
 export function buildRecipes(data) {
-    const main = document.querySelector('main');
-    data.forEach(recipe => main.insertAdjacentHTML('beforeend', recipeTemplate(recipe)));
+    return data.map(recipe => recipeTemplate(recipe)).join('');
 }
 
 function recipeTemplate(recipe) {

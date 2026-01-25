@@ -1,0 +1,10 @@
+:root {
+    --teal: #86a69d;
+    --gold: #f2b263;
+    --light: #f2e8df;
+    --light-pink: #f2c6c2;
+    --pink: #f28585;
+    --dark: #4c3b2e;
+    --main-font: 'Merriweather', serif;
+    --fancy-font: 'Ballet', var(--main-font);
+}

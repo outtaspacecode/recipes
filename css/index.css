@@ -1,0 +1,36 @@
+@import './partials/variables.css';
+@import './partials/default.css';
+@import './partials/header.css';
+@import './partials/palette.css';
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1800px;
+    margin: 20px auto;
+    justify-content: center;
+    gap: 20px;
+}
+
+main::selection {
+    background-color: var(--dark);
+    color: var(--light);
+}
+
+.recipe {
+    width: 400px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.5s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 80%;
+}
+
+.recipe:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
